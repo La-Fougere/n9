@@ -7,7 +7,7 @@ serial, time, threading, pyautogui, pytesseract, requests, numpy
 Ainsi que [Arduino IDE](https://www.arduino.cc/en/software) bien sur et la librairie Peggy 2 [téléchargeable ici](https://github.com/evil-mad/peggy/archive/refs/tags/v1.0.zip)
 
 ## Le cablâge pour le panneau LED et la main articulée:
-https://i.imgur.com/OMbhO9b.jpeg
+![schema-cablage.jpeg](https://i.imgur.com/OMbhO9b.jpeg)
 
 ## Initialisation Arduino
 Avant de téléverser du code, deplacer temporairement le cable braché sur le pin 2 de l'arduino vers le 5V de l'arduino en enlevant le cable du servomoteur.
