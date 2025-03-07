@@ -41,3 +41,6 @@ Vous pouvez aussi lancer le doigt avec votre téléphone (connecté au même ré
 On a réalisé ce ChatBot sur le site [Shapes, Inc](https://shapes.inc/), sur ce site vous pourrez donner à votre chatbot la mémoire, la personnalité et le comportement que vous désirez, je vous laisse créer le votre.
 
 Une fois que c'est fait allez à l'adresse https://shapes.inc/VotreUrlDeChatBot/chat et parlez avec lui sur la machine qui héberge les scripts. La main devrait se lever à chaque réponse du ChatBot
+
+## Bonus
+Vous pouvez créer vos propres animations sur l'écran LED en modifiant les variables qui stockent les coordonnées des LED à allumer à chaque frame dans le code `final-fuck.ino`
